@@ -1,0 +1,16 @@
+C:\Users\bzapa\source\repos\Toci.Lion\Toci.Lion.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bzapa\source\repos\Toci.Lion\Toci.Lion.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bzapa\source\repos\Toci.Lion\Toci.Lion.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bzapa\source\repos\Toci.Lion\Toci.Lion.Test\bin\Debug\Toci.Lion.Test.dll
+C:\Users\bzapa\source\repos\Toci.Lion\Toci.Lion.Test\bin\Debug\Toci.Lion.Test.pdb
+C:\Users\bzapa\source\repos\Toci.Lion\Toci.Lion.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\bzapa\source\repos\Toci.Lion\Toci.Lion.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\bzapa\source\repos\Toci.Lion\Toci.Lion.Test\bin\Debug\Toci.Lion.exe
+C:\Users\bzapa\source\repos\Toci.Lion\Toci.Lion.Test\bin\Debug\Toci.Lion.pdb
+C:\Users\bzapa\source\repos\Toci.Lion\Toci.Lion.Test\bin\Debug\Toci.Lion.exe.config
+C:\Users\bzapa\source\repos\Toci.Lion\Toci.Lion.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\bzapa\source\repos\Toci.Lion\Toci.Lion.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\bzapa\source\repos\Toci.Lion\Toci.Lion.Test\obj\Debug\Toci.Lion.Test.csprojAssemblyReference.cache
+C:\Users\bzapa\source\repos\Toci.Lion\Toci.Lion.Test\obj\Debug\Toci.Lion.Test.csproj.CopyComplete
+C:\Users\bzapa\source\repos\Toci.Lion\Toci.Lion.Test\obj\Debug\Toci.Lion.Test.dll
+C:\Users\bzapa\source\repos\Toci.Lion\Toci.Lion.Test\obj\Debug\Toci.Lion.Test.pdb

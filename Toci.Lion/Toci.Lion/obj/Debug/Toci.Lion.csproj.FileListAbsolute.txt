@@ -1,0 +1,6 @@
+C:\Users\bzapa\source\repos\Toci.Lion\Toci.Lion\bin\Debug\Toci.Lion.exe.config
+C:\Users\bzapa\source\repos\Toci.Lion\Toci.Lion\bin\Debug\Toci.Lion.exe
+C:\Users\bzapa\source\repos\Toci.Lion\Toci.Lion\bin\Debug\Toci.Lion.pdb
+C:\Users\bzapa\source\repos\Toci.Lion\Toci.Lion\obj\Debug\Toci.Lion.csprojAssemblyReference.cache
+C:\Users\bzapa\source\repos\Toci.Lion\Toci.Lion\obj\Debug\Toci.Lion.exe
+C:\Users\bzapa\source\repos\Toci.Lion\Toci.Lion\obj\Debug\Toci.Lion.pdb
