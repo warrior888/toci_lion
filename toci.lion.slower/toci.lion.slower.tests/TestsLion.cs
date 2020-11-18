@@ -20,6 +20,7 @@ namespace toci.lion.slower.tests
 
             containsTestsEntity[0] = new ContainsTestEntity() { Candidate = "slowo", Cont = "ow", IsContaining = true };
             containsTestsEntity[1] = new ContainsTestEntity() { Candidate = "slowo", Cont = "owr", IsContaining = false };
+            containsTestsEntity[2] = new ContainsTestEntity() { Candidate = "viewer", Cont = "vie", IsContaining = true };
         }
         [TestMethod]
         public void ContainsTest()
@@ -29,7 +30,13 @@ namespace toci.lion.slower.tests
 
             foreach (ContainsTestEntity item in containsTestsEntity)
             {
-                Assert.AreEqual(item.IsContaining, Program.Contains(item.Candidate, item.Cont));
+                //Assert.AreEqual(item.IsContaining, Program.Contains(item.Candidate, item.Cont));
+            }
+
+            for (int i = 0; i < containsTestsEntity.Length; i++)
+            {
+                Assert.AreEqual(containsTestsEntity[i].IsContaining, Program.Contains(containsTestsEntity[i].Candidate, containsTestsEntity[i].Cont));
+
             }
         }
     }
