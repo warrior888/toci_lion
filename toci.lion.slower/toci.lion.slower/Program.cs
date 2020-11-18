@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace toci.lion.slower
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -36,7 +36,7 @@ namespace toci.lion.slower
             return result;
         }
 
-        static bool Contains(string candidate, string substring)
+        public static bool Contains(string candidate, string substring)
         {
             bool isInside = false;
 
@@ -73,7 +73,7 @@ namespace toci.lion.slower
         {
             for (int i = 0, j = candidate.Length - 1; i < j ; i++, j--)
             {
-
+                
             }
 
             return false;

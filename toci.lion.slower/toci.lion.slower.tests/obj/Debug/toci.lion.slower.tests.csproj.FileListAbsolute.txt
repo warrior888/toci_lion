@@ -1,0 +1,16 @@
+C:\Users\bzapa\Source\Repos\warrior888\toci_lion\toci.lion.slower\toci.lion.slower.tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bzapa\Source\Repos\warrior888\toci_lion\toci.lion.slower\toci.lion.slower.tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bzapa\Source\Repos\warrior888\toci_lion\toci.lion.slower\toci.lion.slower.tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bzapa\Source\Repos\warrior888\toci_lion\toci.lion.slower\toci.lion.slower.tests\bin\Debug\toci.lion.slower.tests.dll
+C:\Users\bzapa\Source\Repos\warrior888\toci_lion\toci.lion.slower\toci.lion.slower.tests\bin\Debug\toci.lion.slower.tests.pdb
+C:\Users\bzapa\Source\Repos\warrior888\toci_lion\toci.lion.slower\toci.lion.slower.tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\bzapa\Source\Repos\warrior888\toci_lion\toci.lion.slower\toci.lion.slower.tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\bzapa\Source\Repos\warrior888\toci_lion\toci.lion.slower\toci.lion.slower.tests\bin\Debug\toci.lion.slower.exe
+C:\Users\bzapa\Source\Repos\warrior888\toci_lion\toci.lion.slower\toci.lion.slower.tests\bin\Debug\toci.lion.slower.pdb
+C:\Users\bzapa\Source\Repos\warrior888\toci_lion\toci.lion.slower\toci.lion.slower.tests\bin\Debug\toci.lion.slower.exe.config
+C:\Users\bzapa\Source\Repos\warrior888\toci_lion\toci.lion.slower\toci.lion.slower.tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\bzapa\Source\Repos\warrior888\toci_lion\toci.lion.slower\toci.lion.slower.tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\bzapa\Source\Repos\warrior888\toci_lion\toci.lion.slower\toci.lion.slower.tests\obj\Debug\toci.lion.slower.tests.csprojAssemblyReference.cache
+C:\Users\bzapa\Source\Repos\warrior888\toci_lion\toci.lion.slower\toci.lion.slower.tests\obj\Debug\toci.lion.slower.tests.csproj.CopyComplete
+C:\Users\bzapa\Source\Repos\warrior888\toci_lion\toci.lion.slower\toci.lion.slower.tests\obj\Debug\toci.lion.slower.tests.dll
+C:\Users\bzapa\Source\Repos\warrior888\toci_lion\toci.lion.slower\toci.lion.slower.tests\obj\Debug\toci.lion.slower.tests.pdb

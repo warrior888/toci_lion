@@ -3,3 +3,9 @@ C:\Users\bzapa\source\repos\toci.lion.slower\toci.lion.slower\bin\Debug\toci.lio
 C:\Users\bzapa\source\repos\toci.lion.slower\toci.lion.slower\bin\Debug\toci.lion.slower.pdb
 C:\Users\bzapa\source\repos\toci.lion.slower\toci.lion.slower\obj\Debug\toci.lion.slower.exe
 C:\Users\bzapa\source\repos\toci.lion.slower\toci.lion.slower\obj\Debug\toci.lion.slower.pdb
+C:\Users\bzapa\Source\Repos\warrior888\toci_lion\toci.lion.slower\toci.lion.slower\bin\Debug\toci.lion.slower.exe.config
+C:\Users\bzapa\Source\Repos\warrior888\toci_lion\toci.lion.slower\toci.lion.slower\bin\Debug\toci.lion.slower.exe
+C:\Users\bzapa\Source\Repos\warrior888\toci_lion\toci.lion.slower\toci.lion.slower\bin\Debug\toci.lion.slower.pdb
+C:\Users\bzapa\Source\Repos\warrior888\toci_lion\toci.lion.slower\toci.lion.slower\obj\Debug\toci.lion.slower.csprojAssemblyReference.cache
+C:\Users\bzapa\Source\Repos\warrior888\toci_lion\toci.lion.slower\toci.lion.slower\obj\Debug\toci.lion.slower.exe
+C:\Users\bzapa\Source\Repos\warrior888\toci_lion\toci.lion.slower\toci.lion.slower\obj\Debug\toci.lion.slower.pdb
