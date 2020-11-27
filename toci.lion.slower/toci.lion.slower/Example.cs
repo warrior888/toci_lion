@@ -13,4 +13,19 @@ namespace toci.lion.slower
             throw new NotImplementedException();
         }
     }
+
+    public class DbHandle<TModel>
+    {
+        // select
+        //public bool Delete()
+        //{
+
+        //}
+
+        // insert
+        // update
+        // delete
+
+        // ?? 
+    }
 }

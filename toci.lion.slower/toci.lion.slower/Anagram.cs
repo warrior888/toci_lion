@@ -42,6 +42,17 @@ namespace toci.lion.slower
             return result;
         }
 
+        private void dDummy()
+        {
+            Dictionary<char, int> first = new Dictionary<char, int>();
+            Dictionary<char, int> second = new Dictionary<char, int>();
+
+            foreach (KeyValuePair<char, int> item in first)
+            {
+
+            }
+        }
+
         protected abstract bool AreDictionariesEqual(Dictionary<char, int> first, Dictionary<char, int> second);
     }
 }

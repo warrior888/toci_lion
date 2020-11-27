@@ -1,0 +1,5 @@
+C:\Users\bzapa\source\repos\CronParser\CronParser\bin\Debug\CronParser.exe.config
+C:\Users\bzapa\source\repos\CronParser\CronParser\bin\Debug\CronParser.exe
+C:\Users\bzapa\source\repos\CronParser\CronParser\bin\Debug\CronParser.pdb
+C:\Users\bzapa\source\repos\CronParser\CronParser\obj\Debug\CronParser.exe
+C:\Users\bzapa\source\repos\CronParser\CronParser\obj\Debug\CronParser.pdb
